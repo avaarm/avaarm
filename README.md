@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin" width="22px" src="./Images/linkedin.png"/>](https://www.linkedin.com/in/armenuhi-avanesyan-99101286/)
-[<img align="left" alt="twitter" width="22px" src="./Images/twitter.png" />](https://twitter.com/EmmaPrograms)
-[<img align="left" alt="portfolio" width="22px" src="./Images/work.png" />](https://avaarm.github.io/React-Portfolio-v3/)
+[<img align="left" alt="linkedin" width="22px" src="/Users/armenuhiavanesyan/Coding-Projects/avaarm/Images/linkedin.png"/>](https://www.linkedin.com/in/armenuhi-avanesyan-99101286/)
+[<img align="left" alt="twitter" width="22px" src="/Users/armenuhiavanesyan/Coding-Projects/avaarm/Images/twitter.png" />](https://twitter.com/EmmaPrograms)
+[<img align="left" alt="portfolio" width="22px" src="/Users/armenuhiavanesyan/Coding-Projects/avaarm/Images/work.png" />](https://avaarm.github.io/React-Portfolio-v3/)
 
 
 ### Languages and Tools:
