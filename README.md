@@ -19,13 +19,3 @@
 ### Languages and Tools:
 
 
-
-
-
-
-
-
-
-
-
-
