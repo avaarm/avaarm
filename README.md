@@ -6,7 +6,7 @@
 - 😁 I'm currenty learning python and react! 
 - 👩🏻‍🏫 I'm looking to collaborate with teachers and tutors who would like to volunteer their time in creating a curriculum for young women
 - 🙋🏻‍♀️ 2020 goals: Create a non-profit that teaches and supports young Armenian women in learning programming
-- ✨ Fun fact: I love to dance with people, rock climbing, and backpacking with large groups of friends
+- ✨ Fun fact: I love to dancing with people, rock climbing, and backpacking with large groups of friends
 
 
 ### Connect with me:
