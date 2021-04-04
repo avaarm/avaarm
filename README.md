@@ -3,7 +3,7 @@
 
 ## I'm a Research Scientist, Developer, and Supporter of Non-Profits
 <!-- - I'm currently working on a [A personal blog site][website]! -->
-- 😁  I'm currenty learning python and react! 
+- 😁  I'm currenty learning regex! 
 - 👩🏻‍🏫  I'm looking to collaborate with teachers and tutors who would like to volunteer their time in creating a curriculum for young women
 - 👩   Follow my technical Blog -> [Dev Bun](https://www.devbun.com/)
 - 🙋🏻‍♀️  2020 goals: Create a non-profit that teaches and supports young Armenian women in learning programming
