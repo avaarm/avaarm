@@ -12,7 +12,7 @@
 - 👩   Follow my technical Blog -> [Dev Bun](https://www.devbun.com/)
 - 👩   Here is my portfolio -> [Emma's Portfolio](https://avaarm.github.io/react_portfolio)
 - 🙋🏻‍♀️  2021 goals: Create an impact organization that teaches and supports young Armenian women in learning programming
-- ✨   Fun fact: I love dancing with people, rock climbing, and backpacking with groups of friends. 
+- ✨   Fun fact: I love dancing, rock climbing, and backpacking. 
 
 
 
